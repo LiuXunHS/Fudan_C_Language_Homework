@@ -85,5 +85,4 @@ int main(){
 	    if(a[i]==1)  printf("%d\t",i);
     } 
     return 0;
-
 }
